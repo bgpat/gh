@@ -1,8 +1,8 @@
-# {{repo_name}}
+# gh
 
-[![Build Status](https://travis-ci.com/bgpat/{{repo_name}}.svg?branch=master)](https://travis-ci.com/bgpat/{{repo_name}})
+[![Build Status](https://travis-ci.com/bgpat/gh.svg?branch=master)](https://travis-ci.com/bgpat/gh)
 
-**{{repo_name}}** is 〜〜.
+**gh** is a Web Extension to search GitHub Repositories.
 
 ## Installation
 

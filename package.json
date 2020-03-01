@@ -1,7 +1,7 @@
 {
-  "name": "@bgpat/{{repo_name}}",
+  "name": "@bgpat/gh",
   "version": "0.0.1",
-  "description": "{{extension_description}}",
+  "description": "gh is a Web Extension to search GitHub Repositories",
   "scripts": {
     "start": "webpack -w",
     "build": "webpack",
@@ -14,18 +14,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bgpat/{{repo_name}}.git"
+    "url": "git+https://github.com/bgpat/gh.git"
   },
   "keywords": [
     "webextension",
     "firefox-addon"
   ],
   "author": "bgpat",
-  "license": "{{repo_license}}",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bgpat/{{repo_name}}/issues"
+    "url": "https://github.com/bgpat/gh/issues"
   },
-  "homepage": "https://github.com/bgpat/{{repo_name}}#readme",
+  "homepage": "https://github.com/bgpat/gh#readme",
   "devDependencies": {
     "@babel/core": "^7.6.2",
     "@babel/plugin-proposal-class-properties": "^7.5.5",

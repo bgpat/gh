@@ -1,11 +1,10 @@
 {
   "manifest_version": 2,
-  "name": "{{extension_title}}",
+  "name": "gh",
   "version": "0.0.1",
-  "description": "{{extension_description}}",
+  "description": "Search GitHub Repositories from Browser Omnibox",
   "applications": {
     "gecko": {
-      "id": "{{{firefox_extension_id}}}",
       "strict_min_version": "59.0"
     }
   },
@@ -25,7 +24,7 @@
     "default_icon": {
       "48": "icons/48.png"
     },
-    "default_title": "{{extension_title}}"
+    "default_title": "gh"
   },
   "web_accessible_resources": ["icons/icon.svg"],
   "options_ui": {
